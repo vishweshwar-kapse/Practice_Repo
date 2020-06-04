@@ -10,6 +10,7 @@ namespace Dummy_Application
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Feature F2 has been added to Develop");
         }
     }
 }
