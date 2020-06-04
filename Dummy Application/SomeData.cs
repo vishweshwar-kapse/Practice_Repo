@@ -12,4 +12,8 @@ namespace Dummy_Application
         public int Age { get; set; }
 
     }
+    public class Student : Person
+    {
+        public string SchoolName { get; set; }
+    }
 }
