@@ -16,4 +16,9 @@ namespace Dummy_Application
     {
         public string SchoolName { get; set; }
     }
+
+    public class Teacher:Student
+    {
+        public decimal  Salary { get; set; }
+    }
 }
